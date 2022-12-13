@@ -1,23 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=985DDE&height=120&section=header"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/orafaelrodrigo/b845293b9279a56cfa153e21df31577f/raw/4bc09e9e3a03ef9f40fe7b93b17f36655f35eb91/perfil.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm orafaelrodrigo</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=985DDEsize=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Rodrigo;I'm+39+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=orafaelrodrigo&show_icons=true&count_private=true&hide_border=true&title_color=985DDE&icon_color=985DDE&text_color=985DDE&bg_color=0d1117" alt="Rafael Rodrigo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelrodrigo&layout=compact&hide_border=true&title_color=985DDE&text_color=985DDE&bg_color=0d1117" />
+ - ▶️ I regularly post videos and photos on [instagram.com/orafaelrodrigo](https://instagram.com/orafaelrodrigo) 
+
+- ⚡ **Game** and **series** lover 😜
+
+- ✨ More at [orafaelrodrigo.dev](https://orafaelrodrigo.dev)
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=orafaelrodrigo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=orafaelrodrigo&show_icons=true&count_private=true&theme=github_dark" alt=orafaelrodrigo github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelrodrigo&layout=compact&theme=github_dark" />
 </div>
+  
+ 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=orafaelrodrigo&bg_color=0d1117&color=985DDE&line=299138&point=C2A60A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orafaelrodrigo&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center"> 
-
-<a href = "mailto:orafaelrodrigo@outlook.com"> <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/orafaelrodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+### Contact
+   <a href="https://instagram.com/orafaelrodrigo" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-orafaelrodrigo-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/omatheusribeiro" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-orafaelrodrigo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  
+   <a href="mailto:orafaelrodrigo@outlook.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-orafaelrodrigo-05122A?style=flat&logo=microsoft" alt="microsoft"/>
+  </a>
   
    ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,11 +45,7 @@
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{orafaelrodrigo}/count.svg" /></p> 
-<br>
-</div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=985DDE&height=120&section=footer"/>
+
+
